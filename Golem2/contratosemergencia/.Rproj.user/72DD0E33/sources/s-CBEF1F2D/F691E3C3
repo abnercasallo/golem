@@ -1,0 +1,28 @@
+{
+    "id": "F691E3C3",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1612766582676.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "id": "cb47e16990a34615bca613cdfbc30e24",
+        "name": "map_num",
+        "title": "map_num",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1612766319,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1612766582676,
+    "read_only": false,
+    "read_only_alternatives": []
+}
